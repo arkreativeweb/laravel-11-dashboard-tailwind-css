@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Demo Website Laravel
 [Jasa Pembuatan Website](https://arkreativeweb.com/) Seo dan  framework.
 
-[https://example.com/path/to/image.png](https://i.postimg.cc/bJ6N4y5f/Screenshot-2024-07-17-095947.png))
+<img src="https://i.postimg.cc/bJ6N4y5f/Screenshot-2024-07-17-095947.png" alt="box" style="max-width: 100%;">
 
 
 ## Learning Laravel
