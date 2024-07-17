@@ -1,0 +1,326 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?orkqwr');
+  src: url('fonts/icomoon.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon.woff?orkqwr') format('woff'),
+    url('fonts/icomoon.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+.icon-time:before {
+  content: "\e900";
+}
+
+.icon-email:before {
+  content: "\e901";
+}
+
+.icon-email-1:before {
+  content: "\e902";
+}
+
+.icon-facebook:before {
+  content: "\e903";
+}
+
+.icon-facebook-1:before {
+  content: "\e904";
+}
+
+.icon-twitter:before {
+  content: "\e905";
+}
+
+.icon-pinterest:before {
+  content: "\e906";
+}
+
+.icon-instagram:before {
+  content: "\e907";
+}
+
+.icon-magnifying-glass:before {
+  content: "\e908";
+}
+
+.icon-chatting:before {
+  content: "\e909";
+}
+
+.icon-gardening:before {
+  content: "\e90a";
+}
+
+.icon-pruning-shears:before {
+  content: "\e90b";
+}
+
+.icon-farmer:before {
+  content: "\e90c";
+}
+
+.icon-shovels:before {
+  content: "\e90d";
+}
+
+.icon-butterflies:before {
+  content: "\e90e";
+}
+
+.icon-confirmation:before {
+  content: "\e90f";
+}
+
+.icon-arrow-right:before {
+  content: "\e910";
+}
+
+.icon-right-arrow:before {
+  content: "\e911";
+}
+
+.icon-right-arrow-1:before {
+  content: "\e912";
+}
+
+.icon-left-arrow:before {
+  content: "\e913";
+}
+
+.icon-left:before {
+  content: "\e914";
+}
+
+.icon-calendar:before {
+  content: "\e915";
+}
+
+.icon-gardening-1:before {
+  content: "\e916";
+}
+
+.icon-gardener:before {
+  content: "\e917";
+}
+
+.icon-watering-plants:before {
+  content: "\e918";
+}
+
+.icon-home:before {
+  content: "\e919";
+}
+
+.icon-field:before {
+  content: "\e91a";
+}
+
+.icon-arrow-up:before {
+  content: "\e91b";
+}
+
+.icon-up-arrow:before {
+  content: "\e91c";
+}
+
+.icon-down-arrow:before {
+  content: "\e91d";
+}
+
+.icon-down-arrow-1:before {
+  content: "\e91e";
+}
+
+.icon-quote:before {
+  content: "\e91f";
+}
+
+.icon-pointed-star:before {
+  content: "\e920";
+}
+
+.icon-star:before {
+  content: "\e921";
+}
+
+.icon-tick:before {
+  content: "\e922";
+}
+
+.icon-user:before {
+  content: "\e923";
+}
+
+.icon-user-1:before {
+  content: "\e924";
+}
+
+.icon-conversation:before {
+  content: "\e925";
+}
+
+.icon-calendar-1:before {
+  content: "\e926";
+}
+
+.icon-phone-call:before {
+  content: "\e927";
+}
+
+.icon-phone-call-1:before {
+  content: "\e928";
+}
+
+.icon-message:before {
+  content: "\e929";
+}
+
+.icon-location:before {
+  content: "\e92a";
+}
+
+.icon-placeholder:before {
+  content: "\e92b";
+}
+
+.icon-location-1:before {
+  content: "\e92c";
+}
+
+.icon-back-in-time:before {
+  content: "\e92d";
+}
+
+.icon-left-chevron:before {
+  content: "\e92e";
+}
+
+.icon-chevron:before {
+  content: "\e92f";
+}
+
+.icon-agriculture:before {
+  content: "\e930";
+}
+
+.icon-lawn-mower:before {
+  content: "\e931";
+}
+
+.icon-planting:before {
+  content: "\e932";
+}
+
+.icon-share:before {
+  content: "\e933";
+}
+
+.icon-linked-in-logo-of-two-letters:before {
+  content: "\e934";
+}
+
+.icon-dribbble:before {
+  content: "\e935";
+}
+
+.icon-plus:before {
+  content: "\e936";
+}
+
+.icon-minus:before {
+  content: "\e937";
+}
+
+.icon-minus-1:before {
+  content: "\e938";
+}
+
+.icon-plus-1:before {
+  content: "\e939";
+}
+
+.icon-right-arrow-2:before {
+  content: "\e93a";
+}
+
+.icon-right-quote:before {
+  content: "\e93b";
+}
+
+.icon-quote-left:before {
+  content: "\e93c";
+}
+
+.icon-quote-1:before {
+  content: "\e93d";
+}
+
+.icon-call:before {
+  content: "\e93e";
+}
+
+.icon-phone:before {
+  content: "\e93f";
+}
+
+.icon-dollar:before {
+  content: "\e940";
+}
+
+.icon-gardening-2:before {
+  content: "\e941";
+}
+
+.icon-chair:before {
+  content: "\e942";
+}
+
+.icon-gardener-1:before {
+  content: "\e943";
+}
+
+.icon-leaf:before {
+  content: "\e944";
+}
+
+.icon-seeding:before {
+  content: "\e945";
+}
+
+.icon-save-instagram:before {
+  content: "\e946";
+}
+
+.icon-play-button:before {
+  content: "\e947";
+}
+
+.icon-love:before {
+  content: "\e948";
+}
